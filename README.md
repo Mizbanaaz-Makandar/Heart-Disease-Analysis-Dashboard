@@ -1,5 +1,5 @@
 # Heart-Disease-Analysis-Dashboard
-❤️ Heart Disease Survival Insights Dashboard
+Heart Disease Survival Insights Dashboard
 1. Project Title / Headline
 
 Heart Disease Analytics: Survival Insights Dashboard
@@ -26,29 +26,29 @@ Excel/CSV Dataset – Used as the data source for patient medical and survival r
 
 4. Key Insights / Features
 
-📈 Overall Survival Rate: 67.89% with an average survival age of 58.76 years.
+Overall Survival Rate: 67.89% with an average survival age of 58.76 years.
 
-🧬 Age-Based Survival Trends: Higher survival in age group 61–70 (75.9%), lowest in 71+ (10.38%).
+Age-Based Survival Trends: Higher survival in age group 61–70 (75.9%), lowest in 71+ (10.38%).
 
-💉 Medical Indicators: Correlation between serum creatinine, ejection fraction, and survival outcomes.
+Medical Indicators: Correlation between serum creatinine, ejection fraction, and survival outcomes.
 
-🚭 Lifestyle Impact: Visualized influence of smoking, anaemia, diabetes, and blood pressure across different age groups.
+Lifestyle Impact: Visualized influence of smoking, anaemia, diabetes, and blood pressure across different age groups.
 
-👨‍⚕️ Interactive Filters: Gender-based analysis (male vs female survival).
+Interactive Filters: Gender-based analysis (male vs female survival).
 
-🫀 Dynamic KPIs: Track total patients, total survival, and total deaths interactively.
+Dynamic KPIs: Track total patients, total survival, and total deaths interactively.
 
 5. Business / Healthcare Insights & Impact
 
-🩺 Clinical Decision Support: Enables healthcare teams to identify high-risk age groups and focus preventive care efforts.
+Clinical Decision Support: Enables healthcare teams to identify high-risk age groups and focus preventive care efforts.
 
-📊 Predictive Trend Analysis: Helps researchers predict survival likelihood based on patient medical data.
+Predictive Trend Analysis: Helps researchers predict survival likelihood based on patient medical data.
 
-💡 Healthcare Optimization: Revealed that elevated serum creatinine and low ejection fraction strongly correlate with lower survival.
+Healthcare Optimization: Revealed that elevated serum creatinine and low ejection fraction strongly correlate with lower survival.
 
-👥 Public Health Impact: Provides visual evidence for prioritizing early screening programs for patients above age 60.
+Public Health Impact: Provides visual evidence for prioritizing early screening programs for patients above age 60.
 
-🔍 Outcome: Improved understanding of how demographic and clinical factors influence survival rates in heart disease patients.
+Outcome: Improved understanding of how demographic and clinical factors influence survival rates in heart disease patients.
 
 6. Intended Audience
 
